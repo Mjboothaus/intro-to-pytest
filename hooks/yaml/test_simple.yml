@@ -1,0 +1,7 @@
+# hooks/yaml/test_simple.yml
+- name: test1
+  val: val
+
+- name: test2
+  val1: val1
+  val2: valwrong
